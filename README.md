@@ -18,7 +18,7 @@
 3. 敵に触れると機数が減り、0になるとゲームオーバーとなり、スコアが表示されます。
 
 ## 画面イメージ
-![image](https://github.com/user-attachments/assets/f4c4b574-d44d-4cb2-bec5-5278604502a9)
+<img src="https://github.com/user-attachments/assets/f4c4b574-d44d-4cb2-bec5-5278604502a9" width="300">
 
 ## プレイデモ映像
 demo.mp4
